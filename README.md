@@ -4,6 +4,12 @@ Docker in Docker as a service.
 
 DApps + BlockChain + IPFS + DinD
 
+## TODO
+
+1.mdind demo:
+
+2.Kiwix demo:
+
 ## References
 
 https://github.com/jpetazzo/dind
