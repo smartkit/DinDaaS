@@ -8,7 +8,7 @@ DApps + BlockChain + IPFS + DinD
 
 1.mdind demo:
 
-2.Kiwix demo:http://118.190.3.169:91/
+2.Kiwix demo:https://smartkit.xyz
 
 ## References
 
